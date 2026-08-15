@@ -219,7 +219,7 @@ class _AdminDashboardState extends State<AdminDashboard> {
                     ],
                   ),
                 ),
-              ),
+              ), // admin features are all developed here
       ),
     );
   }
